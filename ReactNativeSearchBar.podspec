@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage      = package["homepage"]
   s.source        = { :git => package["repository"]["url"] }
   s.requires_arc  = true
-  s.preserve_paths= "package.json", "LICENSE"
+  s.preserve_paths = "package.json", "LICENSE"
   s.dependency 'React'
-  s.exclude_files       = 'SearchBarExample, SearchBar.png'
+  s.exclude_files       = 'SearchBarExample'
 end
