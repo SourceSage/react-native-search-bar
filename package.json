@@ -10,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hanquochan/react-native-search-bar.git"
+    "url": "https://github.com/umhan35/react-native-search-bar"
   },
-  "homepage": "https://github.com/hanquochan/react-native-search-bar",
+  "homepage": "https://github.com/umhan35/react-native-search-bar",
   "main": "SearchBar.js",
   "license": "MIT"
 }
